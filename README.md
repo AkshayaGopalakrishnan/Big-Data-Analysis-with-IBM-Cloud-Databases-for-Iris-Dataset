@@ -15,7 +15,7 @@ To run this project, you will need:
     
     - Jupyter Notebook
     
-    - The following Python libraries: pandas, numpy, matplotlib, seaborn, plotly, dash, sklearn
+    - The following Python libraries: pandas, numpy, matplotlib, sklearn
     
 Features and Functionality
 This project performs various data analysis tasks on the iris dataset using SQL or Python. Some of the tasks are:
@@ -31,9 +31,7 @@ This project performs various data analysis tasks on the iris dataset using SQL 
            
            - Perform some exploratory data analysis (EDA) tasks to understand the distribution and relationship of the data using visual techniques such as histograms, box plots, scatter plots, etc.
            
-           - Perform some inferential statistics tasks to test some hypotheses or assumptions about the data using techniques such as t-test, ANOVA, chi-square test, correlation, regression, etc.
-           
-           - Perform some predictive analytics tasks to build models that can predict the target variable (species) from the features using techniques such as classification, clustering, decision trees, random forests, k-nearest neighbors, support vector machines, neural networks, etc.
+           - Perform some predictive analytics tasks to build models that can predict the target variable (species) from the features using techniques such as classification, decision trees, random forests, k-nearest neighbors, support vector machines, etc.
            
            - Perform some prescriptive analytics tasks to provide recommendations or suggestions based on the analysis results using techniques such as optimization, simulation, scenario analysis, etc.
 This project also designs visualizations that can present the analysis results in an understandable and impactful manner using various tools and libraries. Some of the tools and libraries are:
@@ -41,11 +39,10 @@ This project also designs visualizations that can present the analysis results i
     - Matplotlib: A Python library for creating static 2D plots.
     
     - Seaborn: A Python library for creating statistical and aesthetic plots.
+
+    - IBM Watson Studio : An integrated environment designed to make it easy to develop, train, manage models, and deploy AI-powered applications.
+
+    - IBM Watson ML :A powerful tool that allows you to explore data, prepare it for training and evaluation.
     
-    - Plotly: A Python library for creating interactive and web-based plots.
-    
-    - Dash: A Python framework for building web applications and dashboards.
-    
-    - IBM Cognos Analytics: A business intelligence tool for creating reports and dashboards.
     
 
